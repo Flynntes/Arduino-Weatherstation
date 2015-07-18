@@ -1,4 +1,4 @@
-WeHub-Base
+Arduino Weatherstation
 ==========
 
-The Arduino code that runs the WeHub
+A simple arduino weatherstation. Outputs temp and humidity to serial monitor.
